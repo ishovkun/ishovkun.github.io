@@ -21,7 +21,7 @@ Austin, TX 78712-1585
 
 ##EDUCATION
 <div style="float:left;width:50%;"><b>PhD, Petroleum Engineering</b></div>
-<div style="float:right;width:50%;text-align:right">May 2018</div>
+<div style="float:right;width:50%;text-align:right">May 2017</div>
 The University of Texas at Austin, Austin, TX  
 THESIS: Numerical simulation of geomechanical processes  
 
