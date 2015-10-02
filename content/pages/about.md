@@ -6,7 +6,7 @@ save_as: index.html
 
 My name is Igor Shovkun, I am a PhD student in the Department of Petroleum and Geosystems Engineering 
 at the Unirsity of Texas at Austin. I received my BSc and MSc in Applied Physics and Mathematics in Russia
-from the best technical university MIPT (no offence, MSU).   
+from the best technical university, MIPT (no offence, MSU).   
 
 During my career in research I have been involved in experimental and simulation projects
 in the area of Petroleum Engineering mainly concerning fluid flow, geomechanical, and thermal processes. Please refer to my current [Resume](pages/resume.html) for more details concerning my background.
